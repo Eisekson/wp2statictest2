@@ -1,0 +1,1 @@
+# wp2statictest2
